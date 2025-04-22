@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
 
 :root {
-    --cor-de-fundo: #000000;
+    --cor-de-fundo: #11030b;
     --verde: #6FFF57;
     --branco: #f1ececfd;
     --botao-ativo: #bf11c5;
     --botao-inativo: rgba(77, 21, 67, 0.5);
-    --texto-fundo: rgba(102, 16, 90, 0.3);
+    --texto-fundo: rgba(80, 12, 71, 0.3);
 }
 
 body {
